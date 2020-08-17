@@ -1,0 +1,38 @@
+#title{
+text-align: center;
+padding-top: 20px;
+font-family: "Alata";
+word-spacing: 1px;
+font-size: 30px;
+font-weight: w100;
+
+
+}
+.settings{
+    font-family: "Nunito";
+        font-weight: lighter;
+}
+body{
+    background-color: rgb(215, 231, 241);
+}
+.kk{
+    font-family: "Raleway"
+}
+.title{
+        font-family: "Nunito";
+        font-weight: lighter;
+        font-size: 19px;
+        
+}
+#warmmm{
+    font-family: "Cormorant";
+    /* style="display: inline; font-size: 20px; padding-left:50px; ;" */
+    display: inline;
+    font-size: 1px;
+
+
+}
+#final{
+    color: white;
+
+}
